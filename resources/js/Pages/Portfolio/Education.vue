@@ -122,7 +122,7 @@ onMounted(() => {
                     <h1
                         class="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-tight mb-8 animate__animated animate__fadeInDown">
                         My <span
-                            class="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-accent">Educationsssssssss</span>
+                            class="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-accent">Education</span>
                         Background
                     </h1>
                     <p
